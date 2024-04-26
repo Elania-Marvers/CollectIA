@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+./base_model/res/object/*
+./base_model/res/profil/*
+
+
+object/*
+profil/*
